@@ -34,3 +34,12 @@ ________________________________________________________________________
 - 자신과 매칭된 아동의 상담별 보고서 확인
 - 태그 워드 클라우드, 주제별 위험 수치 Top3 상담 내용 확인
 - 사용자-태그 간 네트워크 그래프 확인
+
+---
+### Inividual Contribution
+- TopK_Risk_Scores_By_Topic.ipynb → 주제별 위험수치 Top K
+- .ipynb → 딥 챗봇 프롬프트 엔지니어링
+- light_prompt.py → 라이트 챗봇
+- network_graph.ipynb → 네트워크 그래프
+- tagging_model.ipynb → 태깅 모델
+- word_cloud.ipynb → 워드 클라우드
