@@ -1,6 +1,6 @@
 ## MindBridge : 생성형 AI 기반 아동·청소년 정서 분석 및 상담 지원 챗봇 웹 서비스
 
-※ This repository reorganizes my individual contributions from a team project conducted as part of a university course.
+※ This repository reorganizes my individual contributions from a team project conducted as part of a university course.  
 ※ 이 repository는 대학교 수업의 일환으로 진행된 팀 프로젝트에서 개인적으로 기여한 부분을 재정리한 것입니다.
 ________________________________________________________________________
 프로젝트 배경: 
