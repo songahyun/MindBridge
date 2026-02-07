@@ -43,3 +43,4 @@ ________________________________________________________________________
 - network_graph.ipynb → 네트워크 그래프
 - tagging_model.ipynb → 태깅 모델
 - word_cloud.ipynb → 워드 클라우드
+- 비교_BERTScore, 비교_ROUGH-1 → RAG 전후 모델 성능 비교
