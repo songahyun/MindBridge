@@ -1,4 +1,4 @@
-# MindBridge : 생성형 AI 기반 아동·청소년 정서 분석 및 상담 지원 챗봇 웹 서비스
+## MindBridge : 생성형 AI 기반 아동·청소년 정서 분석 및 상담 지원 챗봇 웹 서비스
 
 ※ This repository reorganizes my individual contributions from a team project conducted as part of a university course.  
 ※ 이 repository는 대학교 수업의 일환으로 진행된 팀 프로젝트에서 개인적으로 기여한 부분을 재정리한 것입니다.
@@ -38,7 +38,7 @@ ________________________________________________________________________
 ---
 ### Inividual Contribution
 - TopK_Risk_Scores_By_Topic.ipynb → 주제별 위험수치 Top K
-- .ipynb → 딥 챗봇 프롬프트 엔지니어링
+- deep_prompt.ipynb → 딥 챗봇 프롬프트 엔지니어링
 - light_prompt.py → 라이트 챗봇
 - network_graph.ipynb → 네트워크 그래프
 - tagging_model.ipynb → 태깅 모델
