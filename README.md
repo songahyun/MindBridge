@@ -38,10 +38,9 @@ ________________________________________________________________________
 ---
 ### Inividual Contribution
 - TopK_Risk_Scores_By_Topic.ipynb → 주제별 위험수치 Top K
-- deep_prompt.ipynb → 딥 챗봇 프롬프트 엔지니어링(rag 반영 X)
-- light_prompt.py → 라이트 챗봇
+- chatbot_deep.ipynb → 딥 챗봇 개발 코드(RAG 사용)
+- chatbot_light.py → 라이트 챗봇 개발 코드
 - network_graph.ipynb → 네트워크 그래프
 - tagging_model.ipynb → 태깅 모델
 - word_cloud.ipynb → 워드 클라우드
 - 비교_BERTScore, 비교_ROUGH-1 → RAG 전후 모델 성능 비교
-- chatbot_deep.ipynb → 최종 딥 챗봇 코드
